@@ -2,7 +2,6 @@
 permalink: /publications/
 author_profile: true
 title: "aaaa"
-title_shown = false
 ---
 
 ## Publications
