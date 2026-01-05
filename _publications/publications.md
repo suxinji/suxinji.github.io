@@ -1,12 +1,11 @@
 ---
-title: Publications
 permalink: /publications/
 author_profile: true
 ---
 
 ## Publications
 
-**[1] [WASIT: Deep and Continuous Differential Testing of WebAssembly System Interface Implementations] (https://dl.acm.org/doi/pdf/10.1145/3731569.3764819)**  
+**[1]** [WASIT: Deep and Continuous Differential Testing of WebAssembly System Interface Implementations] (https://dl.acm.org/doi/pdf/10.1145/3731569.3764819)
 Yage Hu, Wen Zhang, Botang Xiao, Qingchen Kong, Boyang Yi, **Suxin Ji**, Songlan Wang, and Wenwen Wang.  
 *Proceedings of the 31st ACM Symposium on Operating Systems Principles (SOSP 2025)*,  
 October 13–16, 2025, Seoul, Republic of Korea.
