@@ -1,7 +1,6 @@
 ---
 permalink: /publications/
 author_profile: true
-title: ""
 header:
   show_title: false
 ---
