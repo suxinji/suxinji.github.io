@@ -23,7 +23,7 @@ repository               : "suxinji/suxinji.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "suxin.JPG"
+  avatar           : "suxin.png"
   name             : "Suxin Ji"
   pronouns         : "she/her"  
   bio              : ""
