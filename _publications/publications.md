@@ -22,7 +22,7 @@ April 12–18, 2026, Rio de Janeiro, Brazil. *(to appear)*
 Manuscript in preparation. Target venue: *International Conference on Machine Learning (ICML 2026)*.  
 Submission deadline: January 28, 2026.
 
-**[4] AutoQSys: Automated QEMU Syscall Testing Framework**  
+**[4] [AutoQSys: Automated QEMU Syscall Testing Framework](https://drive.google.com/file/d/12wIxKyI_Nb1882buRDlsFInpk-bfs-xu/view)**  
 **Suxin Ji** (project lead, first author), et al.  
 Manuscript in preparation. Target venue: *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)*.  
 Submission deadline: January 29, 2026.
