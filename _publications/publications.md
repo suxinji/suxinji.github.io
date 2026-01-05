@@ -3,7 +3,6 @@ permalink: /
 title: "Publications"
 author_profile: true
 collection: publications
-permalink: /publications/
 ---
 
 ## Publications
