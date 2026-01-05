@@ -14,4 +14,4 @@ My research experience spans low-level systems and runtime analysis—such as au
 
 I have co-authored papers accepted to **SOSP 2025** and **ICSE 2026**, which provide a strong systems foundation for my current research. I am now actively developing new projects centered on large language models, reinforcement learning, and AI safety, with the goal of advancing the foundations of next-generation AI systems.
 
-Please learn more about me from my [CV](files/CV_JI_2026.pdf)! Please don't hesitate to contact me if you have any questions or topics you'd like to discuss!
+Please learn more about me from my [CV](files/CV_JI_2026.pdf). Feel free to reach out if you would like to discuss research ideas or potential collaborations.
