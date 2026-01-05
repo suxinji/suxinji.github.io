@@ -1,7 +1,8 @@
 ---
 permalink: /publications/
 author_profile: true
-title: "aaaaa"
+title: "aaaa"
+title_shown = false
 ---
 
 ## Publications
