@@ -3,7 +3,7 @@ permalink: /publications/
 author_profile: true
 title: ""
 header:
-  show_title: true
+  show_title: false
 ---
 
 ## Publications
