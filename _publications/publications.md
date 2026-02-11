@@ -24,5 +24,4 @@ Submission deadline: January 28, 2026.
 
 **[4] [AutoQSys: Automated QEMU Syscall Testing Framework](https://drive.google.com/file/d/12wIxKyI_Nb1882buRDlsFInpk-bfs-xu/view)**  
 **Suxin Ji** (project lead, first author), et al.  
-Manuscript in preparation. Target venue: *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)*.  
-Submission deadline: January 29, 2026.
+Manuscript in preparation. Target venue: *European Conference on Computer Systems (EuroSys 2027)*.  
