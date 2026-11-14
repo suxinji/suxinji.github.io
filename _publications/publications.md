@@ -2,9 +2,9 @@
 permalink: /publications/
 author_profile: true
 ---
-## Publications
+# Publications
 
-### Under Review (First Author)
+### Under Review
 
 **[1] [Selective Transfer of RL Updates for Visual Reasoning](https://arxiv.org/abs/2610.08659)**  
 **Suxin Ji**, Hungtao Wan, Mingjun Liu, and An Zhang.  
