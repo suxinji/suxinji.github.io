@@ -2,7 +2,6 @@
 permalink: /publications/
 author_profile: true
 ---
-
 ## Publications
 
 ### Under Review (First Author)
@@ -40,6 +39,6 @@ April 12–18, 2026, Rio de Janeiro, Brazil.
 ## Research Projects
 
 **[AutoQSys: Automated Differential Testing of QEMU Syscall Emulation](https://drive.google.com/file/d/12wIxKyI_Nb1882buRDlsFInpk-bfs-xu/view)**  
-**Suxin Ji** (project lead)  
-*August 2024 – August 2025.*
+**Suxin Ji** (Project Lead) | *Aug 2024 – Aug 2025*
+
 Designed and implemented an automated differential testing framework for comparing native and QEMU-emulated syscall behavior, targeting over 300 Linux syscalls. Preliminary experiments uncovered previously undetected QEMU syscall emulation bugs.
