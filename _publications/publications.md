@@ -3,7 +3,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
+### Publications
 
 ### Under Review (First Author)
 
