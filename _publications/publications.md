@@ -3,8 +3,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
-
 ### Under Review (First Author)
 
 **[1] [Selective Transfer of RL Updates for Visual Reasoning](https://arxiv.org/abs/2610.08659)**  
