@@ -2,9 +2,7 @@
 permalink: /publications/
 author_profile: true
 ---
-# Publications
-
-### Under Review
+## Under Review (First Author)
 
 **[1] [Selective Transfer of RL Updates for Visual Reasoning](https://arxiv.org/abs/2610.08659)**  
 **Suxin Ji**, Hungtao Wan, Mingjun Liu, and An Zhang.  
@@ -18,7 +16,7 @@ author_profile: true
 **Suxin Ji**, Hungtao Wan, Shaoxuan Chen, and An Zhang.  
 *Under review at the International Conference on Learning Representations (ICLR 2027).*
 
-### Peer-Reviewed Conference Papers
+## Peer-Reviewed Conference Papers
 
 **[4] [WASIT: Deep and Continuous Differential Testing of WebAssembly System Interface Implementations](https://dl.acm.org/doi/10.1145/3731569.3764819)**  
 Yage Hu, Wen Zhang, Botang Xiao, Qingchen Kong, Boyang Yi, **Suxin Ji**, Songlan Wang, and Wenwen Wang.  
@@ -30,13 +28,13 @@ Wen Zhang, Botang Xiao, Qingchen Kong, Boyang Yi, **Suxin Ji**, Yage Hu, Songlan
 *In Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026).*  
 April 12–18, 2026, Rio de Janeiro, Brazil.
 
-### Preprints
+## Preprints
 
 **[6] [TLRS-DPO: Token-Level Risk Scoring for Better Direct Preference Optimization](https://arxiv.org/abs/2611.11232)**  
 **Suxin Ji** and Hungtao Wan.  
 *arXiv preprint, 2026.*
 
-## Research Projects
+# Research Projects
 
 **[AutoQSys: Automated Differential Testing of QEMU Syscall Emulation](https://drive.google.com/file/d/12wIxKyI_Nb1882buRDlsFInpk-bfs-xu/view)**  
 **Suxin Ji** (Project Lead) | *Aug 2024 – Aug 2025*
