@@ -5,23 +5,42 @@ author_profile: true
 
 ## Publications
 
-**[1] [WASIT: Deep and Continuous Differential Testing of WebAssembly System Interface Implementations](https://dl.acm.org/doi/pdf/10.1145/3731569.3764819)**  
+### Under Review (First Author)
+
+**[1] [Selective Transfer of RL Updates for Visual Reasoning](https://arxiv.org/abs/2610.08659)**  
+**Suxin Ji**, Hungtao Wan, Mingjun Liu, and An Zhang.  
+*Under review at the International Conference on Learning Representations (ICLR 2027).*
+
+**[2] [When Are Nearby Experts Composable? Cross-Task Model Merging in Neural Thickets](https://arxiv.org/abs/2611.11177)**  
+**Suxin Ji**, Hungtao Wan, Mingjun Liu, and An Zhang.  
+*Under review at the International Conference on Learning Representations (ICLR 2027).*
+
+**[3] [Semantic Behavioral Watermarking: Paraphrase-Robust and Forgery-Resistant Provenance for LLM Agents](https://arxiv.org/abs/2610.08668)**  
+**Suxin Ji**, Hungtao Wan, Shaoxuan Chen, and An Zhang.  
+*Under review at the International Conference on Learning Representations (ICLR 2027).*
+
+### Peer-Reviewed Conference Papers
+
+**[4] [WASIT: Deep and Continuous Differential Testing of WebAssembly System Interface Implementations](https://dl.acm.org/doi/10.1145/3731569.3764819)**  
 Yage Hu, Wen Zhang, Botang Xiao, Qingchen Kong, Boyang Yi, **Suxin Ji**, Songlan Wang, and Wenwen Wang.  
-*Proceedings of the 31st ACM Symposium on Operating Systems Principles (SOSP 2025)*,  
+*In Proceedings of the 31st ACM Symposium on Operating Systems Principles (SOSP 2025).*  
 October 13–16, 2025, Seoul, Republic of Korea.
 
-**[2] [BFix: Automated Safe Memory-Leak Fixing for Binary Code](https://drive.google.com/file/d/1VJfJeIgX15Qw6s252V2pUKXCJJUgGaEk/view)**  
+**[5] [BFix: Automated Safe Memory-Leak Fixing for Binary Code](https://dl.acm.org/doi/10.1145/3744916.3773234)**  
 Wen Zhang, Botang Xiao, Qingchen Kong, Boyang Yi, **Suxin Ji**, Yage Hu, Songlan Wang, and Wenwen Wang.  
-*Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)*,  
-April 12–18, 2026, Rio de Janeiro, Brazil. *(to appear)*
+*In Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026).*  
+April 12–18, 2026, Rio de Janeiro, Brazil.
 
-## Works in Progress
+### Preprints
 
-**[3] [TLRS-DPO: Token-Level Risk Scoring for Better Direct Preference Optimization](https://drive.google.com/file/d/1Vd_ds4HIRtTRsze7mCxnGisBjIQEl3Py/view)**  
-**Suxin Ji** (project lead, first author), et al.  
-Manuscript in preparation. Target venue: *International Conference on Machine Learning (ICML 2026)*.  
-Submission deadline: January 28, 2026.
+**[6] [TLRS-DPO: Token-Level Risk Scoring for Better Direct Preference Optimization](https://arxiv.org/abs/2611.11232)**  
+**Suxin Ji** and Hungtao Wan.  
+*arXiv preprint, 2026.*
 
-**[4] [AutoQSys: Automated QEMU Syscall Testing Framework](https://drive.google.com/file/d/12wIxKyI_Nb1882buRDlsFInpk-bfs-xu/view)**  
-**Suxin Ji** (project lead, first author), et al.  
-Manuscript in preparation. Target venue: *European Conference on Computer Systems (EuroSys 2027)*.  
+## Research Projects
+
+**[AutoQSys: Automated Differential Testing of QEMU Syscall Emulation](https://drive.google.com/file/d/12wIxKyI_Nb1882buRDlsFInpk-bfs-xu/view)**  
+**Suxin Ji** (project lead)  
+*August 2024 – August 2025.*
+
+Designed and implemented an automated differential testing framework for comparing native and QEMU-emulated syscall behavior, targeting over 300 Linux syscalls. Preliminary experiments uncovered previously undetected QEMU syscall emulation bugs.
